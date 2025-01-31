@@ -1,0 +1,522 @@
+Departamento,Municipio,Herido,Muerto,Total general
+Nariño,Tumaco,338,65,403
+Meta,Vistahermosa,317,52,369
+Arauca,Tame,280,70,350
+Antioquia,Tarazá,247,31,278
+Caquetá,San Vicente Del Caguán,254,21,275
+Antioquia,Ituango,209,47,256
+Caquetá,Montañita,213,36,249
+Norte De Santander,Teorama,141,48,189
+Norte De Santander,Tibú,126,54,180
+Antioquia,Anorí,145,32,177
+Antioquia,San Carlos,156,17,173
+Putumayo,Puerto Asís,110,55,165
+Arauca,Arauquita,137,24,161
+Meta,Uribe,138,11,149
+Tolima,Planadas,105,39,144
+Córdoba,Tierralta,122,18,140
+Antioquia,Dabeiba,113,22,135
+Guaviare,San José Del Guaviare,109,22,131
+Córdoba,Puerto Libertador,115,13,128
+Antioquia,Valdivia,113,13,126
+Tolima,Chaparral,89,34,123
+Meta,Puerto Rico,91,31,122
+Norte De Santander,Hacarí,106,16,122
+Nariño,Samaniego,102,19,121
+Caquetá,Puerto Rico,113,6,119
+Meta,Mesetas,102,15,117
+Bolívar,El Carmen De Bolívar,91,17,108
+Meta,La Macarena,79,25,104
+Antioquia,San Francisco,85,18,103
+Caldas,Samaná,86,13,99
+Norte De Santander,El Tarra,81,18,99
+Caquetá,Florencia,79,19,98
+Cauca,Argelia,86,10,96
+Nariño,Ricaurte,52,44,96
+Cauca,El Tambo,90,5,95
+Nariño,Barbacoas,74,21,95
+Bolívar,San Pablo,78,14,92
+Antioquia,Sonsón,82,9,91
+Norte De Santander,Convención,80,11,91
+Norte De Santander,San Calixto,68,20,88
+Bolívar,Santa Rosa Del Sur,74,13,87
+Valle Del Cauca,Florida,72,11,83
+Bolívar,Morales,78,4,82
+Antioquia,San Luis,73,6,79
+Antioquia,Granada,58,20,78
+Antioquia,Cocorná,65,10,75
+Antioquia,Argelia,58,14,72
+Tolima,Rioblanco,57,15,72
+Huila,Algeciras,60,10,70
+Caquetá,Cartagena Del Chairá,58,11,69
+Nariño,Policarpa,52,17,69
+Putumayo,Orito,53,11,64
+Antioquia,Yarumal,50,11,61
+Putumayo,Valle Del Guamuez,46,15,61
+Santander,Barrancabermeja,42,19,61
+Antioquia,Briceño,48,11,59
+Antioquia,Cáceres,52,7,59
+Guaviare,El Retorno,52,6,58
+Bolívar,Zambrano,42,15,57
+Nariño,Santa Cruz,40,16,56
+Meta,San Juan De Arama,36,17,53
+Antioquia,Apartadó,43,7,50
+Arauca,Saravena,44,6,50
+Cauca,Toribío,36,14,50
+Guaviare,Miraflores,42,8,50
+Tolima,Ortega,21,27,48
+Bolívar,Simití,39,8,47
+Huila,Colombia,44,2,46
+Antioquia,Segovia,40,5,45
+Norte De Santander,Sardinata,37,8,45
+Putumayo,Puerto Caicedo,32,13,45
+Putumayo,Puerto Guzmán,38,6,44
+Cauca,Santa Rosa,29,14,43
+Nariño,Roberto Payán,35,8,43
+Antioquia,Campamento,26,16,42
+Antioquia,El Bagre,38,4,42
+Arauca,Fortul,37,5,42
+Nariño,Cumbitara,35,7,42
+Antioquia,Urrao,34,7,41
+Valle Del Cauca,Buenaventura,34,7,41
+Antioquia,Mutatá,37,3,40
+Antioquia,Turbo,36,3,39
+Cesar,Valledupar,16,23,39
+Nariño,La Llanada,37,2,39
+Caquetá,El Paujil,34,4,38
+Meta,Lejanías,33,5,38
+Antioquia,Remedios,30,7,37
+Cauca,Jambaló,35,2,37
+Huila,Baraya,32,5,37
+Antioquia,Medellín,27,8,35
+Cauca,Suárez,29,6,35
+Norte De Santander,El Carmen,31,4,35
+Antioquia,Angostura,27,7,34
+Meta,El Castillo,28,6,34
+Santander,El Carmen,24,10,34
+Bolívar,Cantagallo,31,2,33
+Cauca,López,32,1,33
+Nariño,Los Andes,32,1,33
+Putumayo,San Miguel,24,9,33
+Antioquia,Zaragoza,26,6,32
+Arauca,Arauca,25,7,32
+Guaviare,Calamar,27,5,32
+Valle Del Cauca,Pradera,29,3,32
+Antioquia,San Rafael,29,2,31
+Norte De Santander,Ábrego,28,3,31
+Putumayo,Puerto Leguízamo,28,3,31
+Antioquia,Nariño,28,2,30
+Bogotá D.C,Bogotá Dc,19,11,30
+Vaupes,Mitú,21,9,30
+Cauca,Páez,22,7,29
+Tolima,Rovira,21,8,29
+Antioquia,Amalfi,26,2,28
+Bolívar,Arenal,26,2,28
+Casanare,Sácama,18,10,28
+Cauca,Corinto,24,4,28
+Cauca,Patía,24,4,28
+Norte De Santander,La Playa,22,6,28
+Santander,Sabana De Torres,26,2,28
+Caquetá,Milán,23,4,27
+Cauca,Caloto,17,10,27
+Santander,San Vicente De Chucurí,23,4,27
+Antioquia,Guadalupe,26,,26
+Cundinamarca,La Palma,19,7,26
+Valle Del Cauca,Buga,17,9,26
+Chocó,Riosucio,21,4,25
+Nariño,Magüí,21,4,25
+Valle Del Cauca,Tuluá,9,16,25
+Magdalena,Ciénaga,14,10,24
+Nariño,Ipiales,15,9,24
+Sucre,Chalán,10,14,24
+Bolívar,San Jacinto,19,4,23
+Chocó,Istmina,20,3,23
+Meta,Mapiripán,14,9,23
+Santander,Matanza,22,1,23
+Bolívar,Montecristo,18,4,22
+Cauca,Miranda,17,5,22
+Chocó,Tadó,22,,22
+Caquetá,Solano,21,,21
+Tolima,Roncesvalles,11,10,21
+Cauca,Balboa,18,2,20
+Tolima,Dolores,17,3,20
+Antioquia,Carmen De Viboral,17,2,19
+Antioquia,Nechí,14,5,19
+Antioquia,Yolombó,14,5,19
+Cesar,Pelaya,14,5,19
+Meta,Puerto Gaitán,13,6,19
+Meta,San Juanito,12,7,19
+Valle Del Cauca,Palmira,15,4,19
+Cesar,Pailitas,14,4,18
+Chocó,Nóvita,16,2,18
+Antioquia,Frontino,12,5,17
+Antioquia,San Andrés,10,7,17
+Bolívar,San Martín De Loba,16,1,17
+Caquetá,San José Del Fragua,15,2,17
+Cauca,Buenos Aires,12,5,17
+Chocó,El Carmen Del Atrato,11,6,17
+Meta,Villavicencio,14,3,17
+Nariño,Puerres,9,8,17
+Antioquia,Bello,13,3,16
+Arauca,Puerto Rondón,11,5,16
+Caquetá,El Doncello,13,3,16
+Huila,Neiva,13,3,16
+Meta,El Dorado,14,2,16
+Quindío,Pijao,10,6,16
+Sucre,Ovejas,12,4,16
+Antioquia,Yondó,11,4,15
+Casanare,Tauramena,9,6,15
+Cauca,Cajibío,13,2,15
+Cauca,La Vega,9,6,15
+Cauca,Piendamó,12,3,15
+Cauca,Santander De Quilichao,10,5,15
+Chocó,Unguía,13,2,15
+Meta,Acacías,14,1,15
+Meta,Cubarral,8,7,15
+Meta,Granada,14,1,15
+Meta,Puerto Lleras,13,2,15
+Putumayo,Villagarzón,14,1,15
+Vichada,Cumaribo,8,7,15
+Antioquia,Murindó,10,4,14
+Boyacá,Labranzagrande,11,3,14
+Caldas,Pensilvania,10,4,14
+Cauca,Puracé,14,,14
+Cauca,San Sebastián,12,2,14
+Cesar,La Jagua De Ibirico,11,3,14
+Chocó,El Carmen Del Darien,12,2,14
+Huila,Isnos,10,4,14
+Tolima,Cajamarca,10,4,14
+Tolima,Venadillo,12,2,14
+Vaupes,Carurú,11,3,14
+Boyacá,Pajarito,12,1,13
+Cesar,Pueblo Bello,5,8,13
+Chocó,Sipí,13,,13
+La Guajira,Riohacha,2,11,13
+Nariño,Cumbal,7,6,13
+Santander,Bucaramanga,7,6,13
+Boyacá,Pisba,7,5,12
+Casanare,Aguazul,10,2,12
+Cauca,Caldono,10,2,12
+Cesar,Agustín Codazzi,5,7,12
+Chocó,Bojayá,8,4,12
+Córdoba,Montelíbano,12,,12
+Huila,Tello,10,2,12
+Magdalena,Santa Marta,8,4,12
+Nariño,Santa Bárbara,10,2,12
+Norte De Santander,Cúcuta,9,3,12
+Norte De Santander,Ocaña,10,2,12
+Sucre,Colosó,8,4,12
+Valle Del Cauca,Cali,1,11,12
+Antioquia,Chigorodó,8,3,11
+Antioquia,Santa Fe Antioquia,10,1,11
+Cauca,Bolívar,11,,11
+Cesar,Curumaní,11,,11
+Chocó,Quibdó,9,2,11
+Chocó,San José Del Palmar,8,3,11
+La Guajira,La Jagua Del Pilar,2,9,11
+Santander,Suratá,10,1,11
+Antioquia,Alejandría,10,,10
+Antioquia,Cañasgordas,4,6,10
+Caldas,Aguadas,4,6,10
+Caldas,Marulanda,9,1,10
+Caldas,Riosucio,7,3,10
+Chocó,Bajo Baudó,9,1,10
+Cundinamarca,La Peña,6,4,10
+La Guajira,San Juan Del Cesar,2,8,10
+Nariño,La Cruz,1,9,10
+Santander,El Playón,9,1,10
+Santander,Simacota,8,2,10
+Bolívar,Cartagena De Indias,8,1,9
+Bolívar,Tiquisio,9,,9
+Casanare,La Salina,5,4,9
+Casanare,Yopal,4,5,9
+Cundinamarca,Cáqueza,9,,9
+Cundinamarca,Guaduas,9,,9
+Nariño,Leiva,8,1,9
+Tolima,San Antonio,6,3,9
+Valle Del Cauca,Dagua,5,4,9
+Antioquia,Guatapé,5,3,8
+Antioquia,Montebello,7,1,8
+Antioquia,Vegachí,8,,8
+Bolívar,San Juan Nepomuceno,8,,8
+Casanare,Chámeza,6,2,8
+Chocó,Rio Iró,3,5,8
+La Guajira,Dibulla,2,6,8
+La Guajira,Urumita,7,1,8
+Santander,Pinchote,7,1,8
+Santander,Sucre,6,2,8
+Antioquia,Anzá,,7,7
+Antioquia,Santuario,2,5,7
+Bolívar,Norosí,6,1,7
+Caquetá,Belén De Los Andaquíes,4,3,7
+Cauca,La Sierra,5,2,7
+Cesar,Chiriguaná,3,4,7
+Chocó,Alto Baudó,5,2,7
+Chocó,Medio Baudó,7,,7
+Huila,Palermo,4,3,7
+Huila,San Agustín,7,,7
+Magdalena,Plato,4,3,7
+Nariño,Olaya Herrera,6,1,7
+Norte De Santander,Bucarasica,7,,7
+Norte De Santander,Toledo,7,,7
+Santander,Curití,6,1,7
+Santander,Rionegro,6,1,7
+Sucre,San Onofre,4,3,7
+Sucre,Sucre,6,1,7
+Tolima,Icononzo,7,,7
+Antioquia,La Unión,5,1,6
+Antioquia,Peque,6,,6
+Arauca,Cravo Norte,5,1,6
+Atlántico,Barranquilla,6,,6
+Bolívar,Barranco De Loba,5,1,6
+Bolívar,Córdoba,3,3,6
+Caldas,Pácora,6,,6
+Caquetá,Curillo,6,,6
+Cauca,Popayán,4,2,6
+Cesar,Aguachica,4,2,6
+Cesar,El Copey,6,,6
+Cundinamarca,Albán,3,3,6
+Cundinamarca,Chaguaní,6,,6
+Cundinamarca,Topaipí,6,,6
+Huila,La Argentina,2,4,6
+Nariño,El Charco,6,,6
+Norte De Santander,Santiago,6,,6
+Putumayo,Mocoa,6,,6
+Tolima,Ibagué,3,3,6
+Valle Del Cauca,Jamundí,5,1,6
+Antioquia,Abejorral,3,2,5
+Antioquia,Carepa,2,3,5
+Antioquia,Sabanalarga,5,,5
+Antioquia,San Roque,5,,5
+Bolívar,Achí,5,,5
+Boyacá,Aquitania,3,2,5
+Boyacá,El Cocuy,5,,5
+Caquetá,Morelia,5,,5
+Caquetá,Valparaíso,2,3,5
+Cauca,Morales,2,3,5
+Chocó,Juradó,3,2,5
+Chocó,Medio San Juan,5,,5
+Cundinamarca,Caparrapí,5,,5
+Cundinamarca,El Peñón,4,1,5
+Norte De Santander,El Zulia,5,,5
+Quindío,Génova,4,1,5
+Risaralda,Mistrató,5,,5
+Santander,California,5,,5
+Santander,Charta,5,,5
+Santander,San Miguel,3,2,5
+Tolima,Natagaima,5,,5
+Valle Del Cauca,San Pedro,4,1,5
+Amazonas,Puerto Santander,2,2,4
+Antioquia,Caucasia,4,,4
+Antioquia,Cisneros,4,,4
+Antioquia,Puerto Berrío,4,,4
+Boyacá,Cubará,4,,4
+Boyacá,Garagoa,4,,4
+Boyacá,Paya,3,1,4
+Caldas,La Dorada,3,1,4
+Casanare,Támara,4,,4
+Cesar,Becerril,3,1,4
+Cesar,San Martín,4,,4
+Chocó,Acandí,4,,4
+Chocó,Bagadó,3,1,4
+Cundinamarca,Cabrera,4,,4
+Cundinamarca,Nilo,3,1,4
+Cundinamarca,Pasca,3,1,4
+Cundinamarca,San Bernardo,2,2,4
+Cundinamarca,Útica,3,1,4
+La Guajira,Uribia,1,3,4
+Meta,El Calvario,3,1,4
+Meta,Guamal,4,,4
+Nariño,San Bernardo,4,,4
+Nariño,Sandoná,4,,4
+Norte De Santander,Arboledas,3,1,4
+Quindío,Montenegro,4,,4
+Risaralda,Guática,,4,4
+Risaralda,Santa Rosa De Cabal,4,,4
+Santander,El Peñón,4,,4
+Santander,Landázuri,4,,4
+Tolima,Alvarado,2,2,4
+Tolima,Villarrica,4,,4
+Antioquia,Concepción,3,,3
+Antioquia,Santo Domingo,3,,3
+Antioquia,Toledo,1,2,3
+Bolívar,El Guamo,3,,3
+Bolívar,Ríoviejo,3,,3
+Boyacá,Duitama,1,2,3
+Caldas,Anserma,1,2,3
+Caldas,Manzanares,3,,3
+Caldas,Norcasia,3,,3
+Casanare,Paz De Ariporo,3,,3
+Cauca,Mercaderes,3,,3
+Cauca,Silvia,2,1,3
+Chocó,Bahía Solano,2,1,3
+Chocó,Certegui,2,1,3
+Chocó,Litoral Del San Juan,2,1,3
+Cundinamarca,Gachetá,2,1,3
+Cundinamarca,Guayabal De Síquima,3,,3
+Cundinamarca,Guayabetal,2,1,3
+Cundinamarca,Pulí,1,2,3
+Huila,Acevedo,3,,3
+Huila,Campoalegre,3,,3
+Huila,Garzón,2,1,3
+Huila,La Plata,3,,3
+Huila,Santa María,2,1,3
+Nariño,Belén,1,2,3
+Nariño,Cardoba,3,,3
+Nariño,El Rosario,3,,3
+Nariño,Mallama,3,,3
+Norte De Santander,Cáchira,3,,3
+Quindío,Córdoba,2,1,3
+Risaralda,Quinchía,1,2,3
+Santander,Cimitarra,3,,3
+Santander,Galán,3,,3
+Santander,Hato,3,,3
+Santander,La Belleza,3,,3
+Santander,Piedecuesta,2,1,3
+Sucre,Los Palmitos,3,,3
+Tolima,Anzoátegui,2,1,3
+Tolima,Ataco,1,2,3
+Tolima,Herveo,3,,3
+Tolima,Villahermosa,1,2,3
+Valle Del Cauca,Bolívar,3,,3
+Valle Del Cauca,Bugalagrande,3,,3
+Valle Del Cauca,Restrepo,2,1,3
+Antioquia,Abriaquí,,2,2
+Antioquia,Buriticá,2,,2
+Antioquia,Caracolí,2,,2
+Antioquia,Gómez Plata,2,,2
+Antioquia,Necoclí,2,,2
+Antioquia,Peñol,1,1,2
+Antioquia,Puerto Triunfo,2,,2
+Antioquia,Rionegro,2,,2
+Antioquia,San Vicente,1,1,2
+Antioquia,Támesis,1,1,2
+Atlántico,Sabanagrande,1,1,2
+Bolívar,Regidor,,2,2
+Bolívar,San Jacinto Del Cauca,1,1,2
+Bolívar,Villanueva,1,1,2
+Boyacá,Chiscas,2,,2
+Boyacá,Chita,2,,2
+Boyacá,Páez,1,1,2
+Boyacá,Pauna,2,,2
+Boyacá,San Eduardo,2,,2
+Caldas,Belalcázar,,2,2
+Caldas,Manizales,2,,2
+Caldas,Salamina,1,1,2
+Caldas,Supía,1,1,2
+Caquetá,Solita,2,,2
+Casanare,Hato Corozal,2,,2
+Cauca,Guapi,2,,2
+Cauca,Inzá,2,,2
+Cauca,Piamonte,2,,2
+Cauca,Totoró,1,1,2
+Chocó,Lloró,1,1,2
+Chocó,Nuquí,2,,2
+Córdoba,Ciénaga De Oro,2,,2
+Córdoba,Montería,1,1,2
+Cundinamarca,Fómeque,1,1,2
+Cundinamarca,Guatavita,2,,2
+Cundinamarca,Gutiérrez,2,,2
+Cundinamarca,Quebradanegra,2,,2
+Cundinamarca,Une,,2,2
+Cundinamarca,Vergara,2,,2
+Cundinamarca,Vianí,1,1,2
+Cundinamarca,Villapinzón,,2,2
+Guainía,Inirida,2,,2
+Huila,Gigante,2,,2
+Huila,Iquira,2,,2
+Huila,Pitalito,2,,2
+Huila,Suaza,2,,2
+La Guajira,Albania,1,1,2
+La Guajira,El Molino,1,1,2
+Nariño,Colón,1,1,2
+Nariño,San Lorenzo,2,,2
+Norte De Santander,Herrán,2,,2
+Norte De Santander,Labateca,2,,2
+Norte De Santander,Salazar,2,,2
+Risaralda,Belén De Umbría,2,,2
+Risaralda,Pereira,1,1,2
+Santander,Girón,1,1,2
+Santander,Puerto Wilches,2,,2
+Santander,Zapatoca,2,,2
+Sucre,Corozal,1,1,2
+Sucre,Majagual,2,,2
+Tolima,Lérida,1,1,2
+Tolima,Prado,2,,2
+Valle Del Cauca,Guacarí,,2,2
+Vichada,Puerto Carreño,,2,2
+Antioquia,Caramanta,1,,1
+Antioquia,Guarne,1,,1
+Antioquia,Jardín,1,,1
+Antioquia,La Estrella,1,,1
+Antioquia,Liborina,1,,1
+Antioquia,Maceo,,1,1
+Antioquia,San Jerónimo,1,,1
+Antioquia,San Juan De Urabá,1,,1
+Antioquia,Santa Rosa De Osos,1,,1
+Antioquia,Vigía Del Fuerte,1,,1
+Antioquia,Yalí,1,,1
+Bolívar,Pinillos,1,,1
+Bolívar,Talaigua Nuevo,1,,1
+Boyacá,Otanche,1,,1
+Boyacá,Quípama,1,,1
+Boyacá,Sogamoso,1,,1
+Boyacá,Tasco,1,,1
+Caldas,Filadelfia,1,,1
+Cauca,Almaguer,,1,1
+Cauca,Florencia,,1,1
+Cauca,Timbío,1,,1
+Cesar,La Paz,1,,1
+Cesar,Manaure Balcón Del Cesar,1,,1
+Cesar,San Alberto,,1,1
+Chocó,El Cantón Del San Pablo,1,,1
+Chocó,Medio Atrato,1,,1
+Chocó,Rio Quito,1,,1
+Cundinamarca,Beltrán,1,,1
+Cundinamarca,Chipaque,1,,1
+Cundinamarca,Chocontá,1,,1
+Cundinamarca,Gama,,1,1
+Cundinamarca,Machetá,1,,1
+Cundinamarca,Pandi,1,,1
+Cundinamarca,Quetame,1,,1
+Cundinamarca,San Juan De Rioseco,1,,1
+Cundinamarca,Sasaima,1,,1
+Cundinamarca,Sesquilé,1,,1
+Cundinamarca,Villagómez,1,,1
+Guainía,Barrancominas,1,,1
+Huila,Rivera,1,,1
+La Guajira,Fonseca,1,,1
+La Guajira,Villanueva,,1,1
+Magdalena,Aracataca,1,,1
+Magdalena,Fundación,,1,1
+Magdalena,Zona Bananera,1,,1
+Meta,Fuente De Oro,1,,1
+Meta,Puerto Concordia,1,,1
+Nariño,Linares,,1,1
+Nariño,Potosí,1,,1
+Nariño,San Pablo,1,,1
+Nariño,Túquerres,1,,1
+Norte De Santander,Durania,,1,1
+Putumayo,Santiago,,1,1
+Risaralda,Pueblo Rico,1,,1
+Risaralda,Santuario,,1,1
+Santander,Guadalupe,1,,1
+Santander,Lebríja,1,,1
+Santander,Macaravita,1,,1
+Santander,Socorro,1,,1
+Santander,Suaita,1,,1
+Santander,Vélez,1,,1
+Sucre,Galeras,,1,1
+Sucre,Guaranda,1,,1
+Sucre,La Unión,,1,1
+Sucre,Morroa,1,,1
+Tolima,Coyaima,,1,1
+Tolima,Líbano,1,,1
+Tolima,Melgar,1,,1
+Valle Del Cauca,Calima,1,,1
+Valle Del Cauca,El Águila,1,,1
+Valle Del Cauca,El Cerrito,1,,1
+Valle Del Cauca,El Dovio,1,,1
+Valle Del Cauca,La Cumbre,1,,1
+Valle Del Cauca,Riofrío,,1,1
+Valle Del Cauca,Sevilla,1,,1
